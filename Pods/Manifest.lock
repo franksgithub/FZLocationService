@@ -1,0 +1,12 @@
+PODS:
+  - JZLocationConverter (1.0.0)
+
+DEPENDENCIES:
+  - JZLocationConverter
+
+SPEC CHECKSUMS:
+  JZLocationConverter: 3d816bee6484aed9c155a6045a02ce444833e2f0
+
+PODFILE CHECKSUM: bdfc5f4f5e79037e2ddc43c81b204a4c78f3f784
+
+COCOAPODS: 1.0.1
