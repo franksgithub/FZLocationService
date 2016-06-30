@@ -1,1 +1,2 @@
 # FZLocationService
+对CLLocationManager的封装，方便以block的形式获得位置信息。
